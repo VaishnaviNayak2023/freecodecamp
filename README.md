@@ -26,7 +26,7 @@ A comprehensive repository of solutions, exercises, and notes from **FreeCodeCam
 1. Clone or fork the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fcc-solutions.git
+   git clone https://github.com/VaishnaviNayak2023/freecodecamp
    ```
 2. Navigate to the course/module folder you’re interested in.
 3. Open the challenges or projects folder to explore the solutions.
